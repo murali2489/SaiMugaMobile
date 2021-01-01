@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "billpaybncham199a",
+    "slug": "billpaybncham199a",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "platforms": ["android", "ios"],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "requireFullScreen": true,
+      "supportsTablet": true
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "saimugatest"
+  }
+}
